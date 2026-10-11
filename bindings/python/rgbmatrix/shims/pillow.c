@@ -1,4 +1,3 @@
-#include "Imaging.h"
 #include "pillow.h"
 
 int** get_image32(void* im) {
